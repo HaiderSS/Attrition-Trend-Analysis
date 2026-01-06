@@ -16,8 +16,6 @@ The objective of this analysis is to provide data-driven insights that support w
 
 🛠 Tools & Methods
 
-SQL for data extraction and aggregation
-
 Python for data cleaning, analysis, and visualisation
 
 Exploratory trend and pattern analysis
